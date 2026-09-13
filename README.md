@@ -24,9 +24,6 @@ Turnkey course-agnostic labs so any faculty can drop SoCLaaS into their course w
 | [Lab 111](lab-111/guardrails.md) | Guardrails — prompt-injection defense (cybersecurity) | Advanced |
 | [Lab 112](lab-112/multimodal.md) | Multimodal image understanding (qwen3.8:27b) | Advanced |
 
-## Faculty pitch
-[faculty-pitch.md](faculty-pitch.md) — copy-paste email + angles.
-
 ## Instructor solutions
 Reference solutions for each lab are **not published here** — the kit ships hands-on only, so students see the challenge without an answer key. Instructors who want a reference solution for a lab can request it separately.
 
